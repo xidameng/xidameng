@@ -1,9 +1,9 @@
-### Hi there, I'm xidameng 👋
+### Hi there, I'm SimonXI 👋
 
 ## I'm an Embedded Engineer, IOT Developer and Flutter User!
-- 🔭 I’m currently working on porting MicroPython to a new microcontroller [amebad_mp]!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Nail RTOS, OpenOCD and more MicroPython development.
+- 🔭 I’m currently working on developing MicroPython firmware for a new microcontroller [amebad_mp]!
+- 🌱 I’m also working on porting Arduino for RTL8720DN and porting RTL8722DM to platform IO
+- 🥅 2021 Goals: Nail RTOS, TinyML, OpenOCD and QEMU.
 - ⚡ Fun fact: I love to play ukulele 
 
 
