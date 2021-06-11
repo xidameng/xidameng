@@ -9,6 +9,15 @@
 
 <br />
 
+
+---
+
+[![Mail Badge](https://img.shields.io/badge/-xidameng@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:xidameng@gmail.com)](mailto:xidameng@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Simon-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/simon-%E5%B8%AD%E8%90%8C-81402b5a/ "LinkedIn")
+[![Facebook](https://img.shields.io/badge/Facebook-Simon-blue?style=flat-square&logo=Facebook)](https://www.facebook.com/simon.ximeng/ "Facebook")
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=xidameng.readme) 
+
+
 ---
 ### Languages and Tools:
 <img align="left" alt="C/C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
@@ -29,8 +38,9 @@
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [ThermoGun -- Ameba RTL8710 IoT Project](https://www.youtube.com/watch?v=U-t-lcCIZLs)
-- [Coffin dance -- Ameba D -RTL8722DM](https://www.youtube.com/watch?v=j-pbFxVMx9Y)
 <!-- YOUTUBE:END -->
+
+[![ThermoGun -- Ameba RTL8710 IoT Project](https://img.youtube.com/vi/U-t-lcCIZLs/0.jpg)](https://youtu.be/U-t-lcCIZLs "ThermoGun -- Ameba RTL8710 IoT Project")
 
 ---
 
@@ -38,7 +48,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [5分鐘上手Github之–Ameba篇](https://forum.amebaiot.com/t/5-github-ameba/459?u=xidameng)
 - [A deeper look into Arduino IDE — How to customize Arduino IDE to compile for any embedded platform](https://forum.amebaiot.com/t/a-deeper-look-into-arduino-ide-how-to-customize-arduino-ide-to-compile-for-any-embedded-platform/156?u=xidameng)
-- [IOT Home Security System house](https://forum.amebaiot.com/t/iot-home-security-system/61?u=xidameng)
+- [IOT Home Security System](https://forum.amebaiot.com/t/iot-home-security-system/61?u=xidameng)
 - [ThermoGun🌡gun – Ameba RTL8710AF](https://forum.amebaiot.com/t/thermogun-ameba-rtl8710af/60?u=xidameng)
 - [Introduction to developing MicroPython #1 – Background and Structure](https://forum.amebaiot.com/t/introduction-to-developing-micropython-1-background-and-structure/93?u=xidameng)
 - [Introduction to developing MicroPython #2 – Environment Setup](https://forum.amebaiot.com/t/introduction-to-developing-micropython-2-environment-setup/99?u=xidameng)
