@@ -6,19 +6,25 @@
 - 🥅 2021 Goals: Nail RTOS, TinyML, OpenOCD and QEMU.
 - ⚡ Fun fact: I love to play ukulele 
 
-
 <br />
-
-
----
 
 [![Mail Badge](https://img.shields.io/badge/-xidameng@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:xidameng@gmail.com)](mailto:xidameng@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Simon-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/simon-%E5%B8%AD%E8%90%8C-81402b5a/ "LinkedIn")
 [![Facebook](https://img.shields.io/badge/Facebook-Simon-blue?style=flat-square&logo=Facebook)](https://www.facebook.com/simon.ximeng/ "Facebook")
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=xidameng.readme) 
 
+---
+
+
+<a href="https://github.com/S10143806H">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=S10143806H&theme=vue-dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S10143806H&theme=vue-dark&layout=compact" />
+</a>
+
 
 ---
+
+
 ### Languages and Tools:
 <img align="left" alt="C/C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
 <img align="left" alt="Python" width="26px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" />
@@ -31,18 +37,28 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+
 <br />
 
----
-
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [ThermoGun -- Ameba RTL8710 IoT Project](https://www.youtube.com/watch?v=U-t-lcCIZLs)
-<!-- YOUTUBE:END -->
-
-[![ThermoGun -- Ameba RTL8710 IoT Project](https://img.youtube.com/vi/U-t-lcCIZLs/0.jpg)](https://youtu.be/U-t-lcCIZLs "ThermoGun -- Ameba RTL8710 IoT Project")
 
 ---
+
+### ⚙️Other Skills
+- 🛢
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- ⚙️ 
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 
+  ![Source Insight](https://img.shields.io/badge/-SoureInsight-333333?style=flat&logo=rstudio)
+- 💻
+  ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  [![Linux](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
+
+
+---
+
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -60,11 +76,13 @@
 
 ---
 
-<img align="left" alt="xidameng's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xidameng&show_icons=true&hide_border=true" />
 
-<br />
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+- [ThermoGun -- Ameba RTL8710 IoT Project](https://www.youtube.com/watch?v=U-t-lcCIZLs)
+<!-- YOUTUBE:END -->
 
+[![ThermoGun -- Ameba RTL8710 IoT Project](https://img.youtube.com/vi/U-t-lcCIZLs/0.jpg)](https://youtu.be/U-t-lcCIZLs "ThermoGun -- Ameba RTL8710 IoT Project")
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xidameng&layout=compact)](https://github.com/xidameng/xidameng)
 
 [amebad_mp]: https://github.com/xidameng/micropython_amebaD
