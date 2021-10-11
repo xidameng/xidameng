@@ -17,8 +17,8 @@
 
 
 <a href="https://github.com/S10143806H">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=S10143806H&theme=vue-dark&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S10143806H&theme=vue-dark&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xidameng&theme=vue-dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xidameng&theme=vue-dark&layout=compact" />
 </a>
 
 
